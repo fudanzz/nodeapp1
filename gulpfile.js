@@ -1,5 +1,5 @@
 var gulp = require('gulp');
 
-gulp.task('hello', function () {
+gulp.task('heroku:production', function () {
     console.log('hello world');
 })
