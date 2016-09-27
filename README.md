@@ -1,2 +1,3 @@
 # nodeapp1
-node app with heroku deployment
+simple node app with heroku deployment
+sample rest service based on express
